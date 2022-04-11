@@ -1,5 +1,6 @@
 .u-section-1 .u-sheet-1 {
   min-height: 50vw;
+  overflow: hidden;
 }
 
 .u-section-1 .u-image-1 {
@@ -7,65 +8,77 @@
   height: 477px;
   width: 1067px;
   margin: 144px 30px 19px auto;
+  overflow: hidden;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 412px;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-1 {
     height: 420px;
     width: 940px;
     margin-right: 0;
+    overflow: hidden;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
     min-height: 316px;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-1 {
     height: 322px;
     width: 720px;
+    overflow: hidden;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
     min-height: 237px;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-1 {
     height: 242px;
     width: 540px;
+    overflow: hidden;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 371px;
+    overflow: hidden;
   }
 
   .u-section-1 .u-image-1 {
     height: 226px;
     width: 440px;
     margin: 136px -50px 9px;
+    overflow: hidden;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 293px;
+  overflow: hidden;
 }
 
 .u-section-2 .u-group-1 {
   width: 680px;
   min-height: 393px;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .u-section-2 .u-container-layout-1 {
   padding-top: 0;
   padding-bottom: 30px;
+  overflow: hidden;
 }
 
 .u-section-2 .u-text-1 {
@@ -74,44 +87,52 @@
   letter-spacing: 12px;
   font-size: 0.875rem;
   margin: 49px auto 0;
+  overflow: hidden;
 }
 
 .u-section-2 .u-text-2 {
   background-image: none;
   font-size: 1.875rem;
   margin: 17px auto 0;
+  overflow: hidden;
 }
 
 .u-section-2 .u-text-3 {
   line-height: 1.8;
   font-size: 0.875rem;
   margin: 37px -133px 0 -140px;
+  overflow: hidden;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-text-3 {
     width: 680px;
+    overflow: hidden;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-group-1 {
     width: 540px;
+    overflow: hidden;
   }
 
   .u-section-2 .u-text-3 {
     width: 540px;
     margin-left: 0;
     margin-right: 0;
+    overflow: hidden;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-group-1 {
     width: 340px;
+    overflow: hidden;
   }
 
   .u-section-2 .u-text-3 {
     width: 340px;
+    overflow: hidden;
   }
-}overflow: hidden;
+}
